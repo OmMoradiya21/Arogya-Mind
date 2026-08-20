@@ -189,7 +189,3 @@ Contributions are welcome! If you'd like to improve Arogya Mind:
 ## 📄 License
 
 Distributed under the **ISC License**. See `LICENSE` for more information.
-
----
-
-⭐ **Created by Vishal Girase** & maintained by the community. If you found this project helpful, give it a star on GitHub!
