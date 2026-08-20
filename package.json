@@ -1,0 +1,14 @@
+{
+  "name": "arogya_mind-main",
+  "version": "1.0.0",
+  "description": "Arogya Mind is a modern, comprehensive MERN stack web application designed for mental wellness and health tracking. It features an interactive UI, chatbot integration with Google's Gemini AI, secure user authentication, and data-driven insights to manage personal wellbeing.",
+  "main": "fixer.js",
+  "scripts": {
+    "build": "npm install --prefix server && npm install --prefix client && npm run build --prefix client",
+    "start": "npm run start --prefix server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
